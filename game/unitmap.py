@@ -1,4 +1,5 @@
 """Maps generated units back to their Liberation types."""
+
 import itertools
 import math
 from dataclasses import dataclass

@@ -1,4 +1,5 @@
 """Inventory management APIs."""
+
 from __future__ import annotations
 
 from collections import defaultdict

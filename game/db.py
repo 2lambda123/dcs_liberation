@@ -99,122 +99,122 @@ vehicle_map["KORNET"] = frenchpack.KORNET_ATGM
 
 vehicle_map[highdigitsams.AAA_SON_9_Fire_Can.id] = highdigitsams.AAA_SON_9_Fire_Can
 vehicle_map[highdigitsams.AAA_100mm_KS_19.id] = highdigitsams.AAA_100mm_KS_19
-vehicle_map[
-    highdigitsams.SAM_SA_10B_S_300PS_54K6_CP.id
-] = highdigitsams.SAM_SA_10B_S_300PS_54K6_CP
-vehicle_map[
-    highdigitsams.SAM_SA_10B_S_300PS_5P85SE_LN.id
-] = highdigitsams.SAM_SA_10B_S_300PS_5P85SE_LN
-vehicle_map[
-    highdigitsams.SAM_SA_10B_S_300PS_5P85SU_LN.id
-] = highdigitsams.SAM_SA_10B_S_300PS_5P85SU_LN
-vehicle_map[
-    highdigitsams.SAM_SA_10__5V55RUD__S_300PS_LN_5P85CE.id
-] = highdigitsams.SAM_SA_10__5V55RUD__S_300PS_LN_5P85CE
-vehicle_map[
-    highdigitsams.SAM_SA_10__5V55RUD__S_300PS_LN_5P85DE.id
-] = highdigitsams.SAM_SA_10__5V55RUD__S_300PS_LN_5P85DE
-vehicle_map[
-    highdigitsams.SAM_SA_10B_S_300PS_30N6_TR.id
-] = highdigitsams.SAM_SA_10B_S_300PS_30N6_TR
-vehicle_map[
-    highdigitsams.SAM_SA_10B_S_300PS_40B6M_TR.id
-] = highdigitsams.SAM_SA_10B_S_300PS_40B6M_TR
-vehicle_map[
-    highdigitsams.SAM_SA_10B_S_300PS_40B6MD_SR.id
-] = highdigitsams.SAM_SA_10B_S_300PS_40B6MD_SR
-vehicle_map[
-    highdigitsams.SAM_SA_10B_S_300PS_64H6E_SR.id
-] = highdigitsams.SAM_SA_10B_S_300PS_64H6E_SR
-vehicle_map[
-    highdigitsams.SAM_SA_20_S_300PMU1_CP_54K6.id
-] = highdigitsams.SAM_SA_20_S_300PMU1_CP_54K6
-vehicle_map[
-    highdigitsams.SAM_SA_20_S_300PMU1_TR_30N6E.id
-] = highdigitsams.SAM_SA_20_S_300PMU1_TR_30N6E
-vehicle_map[
-    highdigitsams.SAM_SA_20_S_300PMU1_TR_30N6E_truck.id
-] = highdigitsams.SAM_SA_20_S_300PMU1_TR_30N6E_truck
-vehicle_map[
-    highdigitsams.SAM_SA_20_S_300PMU1_SR_5N66E.id
-] = highdigitsams.SAM_SA_20_S_300PMU1_SR_5N66E
-vehicle_map[
-    highdigitsams.SAM_SA_20_S_300PMU1_SR_64N6E.id
-] = highdigitsams.SAM_SA_20_S_300PMU1_SR_64N6E
-vehicle_map[
-    highdigitsams.SAM_SA_20_S_300PMU1_LN_5P85CE.id
-] = highdigitsams.SAM_SA_20_S_300PMU1_LN_5P85CE
-vehicle_map[
-    highdigitsams.SAM_SA_20_S_300PMU1_LN_5P85DE.id
-] = highdigitsams.SAM_SA_20_S_300PMU1_LN_5P85DE
-vehicle_map[
-    highdigitsams.SAM_SA_20B_S_300PMU2_CP_54K6E2.id
-] = highdigitsams.SAM_SA_20B_S_300PMU2_CP_54K6E2
-vehicle_map[
-    highdigitsams.SAM_SA_20B_S_300PMU2_TR_92H6E_truck.id
-] = highdigitsams.SAM_SA_20B_S_300PMU2_TR_92H6E_truck
-vehicle_map[
-    highdigitsams.SAM_SA_20B_S_300PMU2_SR_64N6E2.id
-] = highdigitsams.SAM_SA_20B_S_300PMU2_SR_64N6E2
-vehicle_map[
-    highdigitsams.SAM_SA_20B_S_300PMU2_LN_5P85SE2.id
-] = highdigitsams.SAM_SA_20B_S_300PMU2_LN_5P85SE2
-vehicle_map[
-    highdigitsams.SAM_SA_12_S_300V_9S457_CP.id
-] = highdigitsams.SAM_SA_12_S_300V_9S457_CP
-vehicle_map[
-    highdigitsams.SAM_SA_12_S_300V_9A82_LN.id
-] = highdigitsams.SAM_SA_12_S_300V_9A82_LN
-vehicle_map[
-    highdigitsams.SAM_SA_12_S_300V_9A83_LN.id
-] = highdigitsams.SAM_SA_12_S_300V_9A83_LN
-vehicle_map[
-    highdigitsams.SAM_SA_12_S_300V_9S15_SR.id
-] = highdigitsams.SAM_SA_12_S_300V_9S15_SR
-vehicle_map[
-    highdigitsams.SAM_SA_12_S_300V_9S19_SR.id
-] = highdigitsams.SAM_SA_12_S_300V_9S19_SR
-vehicle_map[
-    highdigitsams.SAM_SA_12_S_300V_9S32_TR.id
-] = highdigitsams.SAM_SA_12_S_300V_9S32_TR
-vehicle_map[
-    highdigitsams.SAM_SA_23_S_300VM_9S457ME_CP.id
-] = highdigitsams.SAM_SA_23_S_300VM_9S457ME_CP
-vehicle_map[
-    highdigitsams.SAM_SA_23_S_300VM_9S15M2_SR.id
-] = highdigitsams.SAM_SA_23_S_300VM_9S15M2_SR
-vehicle_map[
-    highdigitsams.SAM_SA_23_S_300VM_9S19M2_SR.id
-] = highdigitsams.SAM_SA_23_S_300VM_9S19M2_SR
-vehicle_map[
-    highdigitsams.SAM_SA_23_S_300VM_9S32ME_TR.id
-] = highdigitsams.SAM_SA_23_S_300VM_9S32ME_TR
-vehicle_map[
-    highdigitsams.SAM_SA_23_S_300VM_9A83ME_LN.id
-] = highdigitsams.SAM_SA_23_S_300VM_9A83ME_LN
-vehicle_map[
-    highdigitsams.SAM_SA_23_S_300VM_9A82ME_LN.id
-] = highdigitsams.SAM_SA_23_S_300VM_9A82ME_LN
-vehicle_map[
-    highdigitsams.SAM_SA_17_Buk_M1_2_LN_9A310M1_2.id
-] = highdigitsams.SAM_SA_17_Buk_M1_2_LN_9A310M1_2
-vehicle_map[
-    highdigitsams.SAM_SA_2__V759__LN_SM_90.id
-] = highdigitsams.SAM_SA_2__V759__LN_SM_90
+vehicle_map[highdigitsams.SAM_SA_10B_S_300PS_54K6_CP.id] = (
+    highdigitsams.SAM_SA_10B_S_300PS_54K6_CP
+)
+vehicle_map[highdigitsams.SAM_SA_10B_S_300PS_5P85SE_LN.id] = (
+    highdigitsams.SAM_SA_10B_S_300PS_5P85SE_LN
+)
+vehicle_map[highdigitsams.SAM_SA_10B_S_300PS_5P85SU_LN.id] = (
+    highdigitsams.SAM_SA_10B_S_300PS_5P85SU_LN
+)
+vehicle_map[highdigitsams.SAM_SA_10__5V55RUD__S_300PS_LN_5P85CE.id] = (
+    highdigitsams.SAM_SA_10__5V55RUD__S_300PS_LN_5P85CE
+)
+vehicle_map[highdigitsams.SAM_SA_10__5V55RUD__S_300PS_LN_5P85DE.id] = (
+    highdigitsams.SAM_SA_10__5V55RUD__S_300PS_LN_5P85DE
+)
+vehicle_map[highdigitsams.SAM_SA_10B_S_300PS_30N6_TR.id] = (
+    highdigitsams.SAM_SA_10B_S_300PS_30N6_TR
+)
+vehicle_map[highdigitsams.SAM_SA_10B_S_300PS_40B6M_TR.id] = (
+    highdigitsams.SAM_SA_10B_S_300PS_40B6M_TR
+)
+vehicle_map[highdigitsams.SAM_SA_10B_S_300PS_40B6MD_SR.id] = (
+    highdigitsams.SAM_SA_10B_S_300PS_40B6MD_SR
+)
+vehicle_map[highdigitsams.SAM_SA_10B_S_300PS_64H6E_SR.id] = (
+    highdigitsams.SAM_SA_10B_S_300PS_64H6E_SR
+)
+vehicle_map[highdigitsams.SAM_SA_20_S_300PMU1_CP_54K6.id] = (
+    highdigitsams.SAM_SA_20_S_300PMU1_CP_54K6
+)
+vehicle_map[highdigitsams.SAM_SA_20_S_300PMU1_TR_30N6E.id] = (
+    highdigitsams.SAM_SA_20_S_300PMU1_TR_30N6E
+)
+vehicle_map[highdigitsams.SAM_SA_20_S_300PMU1_TR_30N6E_truck.id] = (
+    highdigitsams.SAM_SA_20_S_300PMU1_TR_30N6E_truck
+)
+vehicle_map[highdigitsams.SAM_SA_20_S_300PMU1_SR_5N66E.id] = (
+    highdigitsams.SAM_SA_20_S_300PMU1_SR_5N66E
+)
+vehicle_map[highdigitsams.SAM_SA_20_S_300PMU1_SR_64N6E.id] = (
+    highdigitsams.SAM_SA_20_S_300PMU1_SR_64N6E
+)
+vehicle_map[highdigitsams.SAM_SA_20_S_300PMU1_LN_5P85CE.id] = (
+    highdigitsams.SAM_SA_20_S_300PMU1_LN_5P85CE
+)
+vehicle_map[highdigitsams.SAM_SA_20_S_300PMU1_LN_5P85DE.id] = (
+    highdigitsams.SAM_SA_20_S_300PMU1_LN_5P85DE
+)
+vehicle_map[highdigitsams.SAM_SA_20B_S_300PMU2_CP_54K6E2.id] = (
+    highdigitsams.SAM_SA_20B_S_300PMU2_CP_54K6E2
+)
+vehicle_map[highdigitsams.SAM_SA_20B_S_300PMU2_TR_92H6E_truck.id] = (
+    highdigitsams.SAM_SA_20B_S_300PMU2_TR_92H6E_truck
+)
+vehicle_map[highdigitsams.SAM_SA_20B_S_300PMU2_SR_64N6E2.id] = (
+    highdigitsams.SAM_SA_20B_S_300PMU2_SR_64N6E2
+)
+vehicle_map[highdigitsams.SAM_SA_20B_S_300PMU2_LN_5P85SE2.id] = (
+    highdigitsams.SAM_SA_20B_S_300PMU2_LN_5P85SE2
+)
+vehicle_map[highdigitsams.SAM_SA_12_S_300V_9S457_CP.id] = (
+    highdigitsams.SAM_SA_12_S_300V_9S457_CP
+)
+vehicle_map[highdigitsams.SAM_SA_12_S_300V_9A82_LN.id] = (
+    highdigitsams.SAM_SA_12_S_300V_9A82_LN
+)
+vehicle_map[highdigitsams.SAM_SA_12_S_300V_9A83_LN.id] = (
+    highdigitsams.SAM_SA_12_S_300V_9A83_LN
+)
+vehicle_map[highdigitsams.SAM_SA_12_S_300V_9S15_SR.id] = (
+    highdigitsams.SAM_SA_12_S_300V_9S15_SR
+)
+vehicle_map[highdigitsams.SAM_SA_12_S_300V_9S19_SR.id] = (
+    highdigitsams.SAM_SA_12_S_300V_9S19_SR
+)
+vehicle_map[highdigitsams.SAM_SA_12_S_300V_9S32_TR.id] = (
+    highdigitsams.SAM_SA_12_S_300V_9S32_TR
+)
+vehicle_map[highdigitsams.SAM_SA_23_S_300VM_9S457ME_CP.id] = (
+    highdigitsams.SAM_SA_23_S_300VM_9S457ME_CP
+)
+vehicle_map[highdigitsams.SAM_SA_23_S_300VM_9S15M2_SR.id] = (
+    highdigitsams.SAM_SA_23_S_300VM_9S15M2_SR
+)
+vehicle_map[highdigitsams.SAM_SA_23_S_300VM_9S19M2_SR.id] = (
+    highdigitsams.SAM_SA_23_S_300VM_9S19M2_SR
+)
+vehicle_map[highdigitsams.SAM_SA_23_S_300VM_9S32ME_TR.id] = (
+    highdigitsams.SAM_SA_23_S_300VM_9S32ME_TR
+)
+vehicle_map[highdigitsams.SAM_SA_23_S_300VM_9A83ME_LN.id] = (
+    highdigitsams.SAM_SA_23_S_300VM_9A83ME_LN
+)
+vehicle_map[highdigitsams.SAM_SA_23_S_300VM_9A82ME_LN.id] = (
+    highdigitsams.SAM_SA_23_S_300VM_9A82ME_LN
+)
+vehicle_map[highdigitsams.SAM_SA_17_Buk_M1_2_LN_9A310M1_2.id] = (
+    highdigitsams.SAM_SA_17_Buk_M1_2_LN_9A310M1_2
+)
+vehicle_map[highdigitsams.SAM_SA_2__V759__LN_SM_90.id] = (
+    highdigitsams.SAM_SA_2__V759__LN_SM_90
+)
 vehicle_map[highdigitsams.SAM_HQ_2_LN_SM_90.id] = highdigitsams.SAM_HQ_2_LN_SM_90
-vehicle_map[
-    highdigitsams.SAM_SA_3__V_601P__LN_5P73.id
-] = highdigitsams.SAM_SA_3__V_601P__LN_5P73
-vehicle_map[
-    highdigitsams.SAM_SA_24_Igla_S_manpad.id
-] = highdigitsams.SAM_SA_24_Igla_S_manpad
-vehicle_map[
-    highdigitsams.SAM_SA_14_Strela_3_manpad.id
-] = highdigitsams.SAM_SA_14_Strela_3_manpad
+vehicle_map[highdigitsams.SAM_SA_3__V_601P__LN_5P73.id] = (
+    highdigitsams.SAM_SA_3__V_601P__LN_5P73
+)
+vehicle_map[highdigitsams.SAM_SA_24_Igla_S_manpad.id] = (
+    highdigitsams.SAM_SA_24_Igla_S_manpad
+)
+vehicle_map[highdigitsams.SAM_SA_14_Strela_3_manpad.id] = (
+    highdigitsams.SAM_SA_14_Strela_3_manpad
+)
 vehicle_map[highdigitsams.Polyana_D4M1_C2_node.id] = highdigitsams.Polyana_D4M1_C2_node
-vehicle_map[
-    highdigitsams._34Ya6E_Gazetchik_E_decoy.id
-] = highdigitsams._34Ya6E_Gazetchik_E_decoy
+vehicle_map[highdigitsams._34Ya6E_Gazetchik_E_decoy.id] = (
+    highdigitsams._34Ya6E_Gazetchik_E_decoy
+)
 
 """
 ---------- BEGINNING OF CONFIGURATION SECTION

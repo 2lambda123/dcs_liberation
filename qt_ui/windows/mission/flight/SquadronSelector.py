@@ -1,4 +1,5 @@
 """Combo box for selecting squadrons."""
+
 from typing import Type, Optional
 
 from PySide2.QtWidgets import QComboBox

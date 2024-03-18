@@ -3,6 +3,7 @@
 Remove once https://github.com/pydcs/dcs/issues/69 tracks getting the missing
 data added to pydcs. Until then, missing data can be manually filled in here.
 """
+
 from __future__ import annotations
 
 from dataclasses import dataclass, field

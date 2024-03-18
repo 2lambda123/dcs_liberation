@@ -1,4 +1,5 @@
 """Combo box for selecting a departure airfield."""
+
 from typing import Iterable, Optional
 
 from PySide2.QtCore import Signal
