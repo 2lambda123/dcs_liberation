@@ -18,6 +18,7 @@ to test the projection for errors.
 
 The resulting data is exported to game/theater/<map>.py as a TransverseMercator object.
 """
+
 from __future__ import annotations
 
 import argparse
