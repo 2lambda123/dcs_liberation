@@ -1,4 +1,5 @@
 """Application-wide dialog management."""
+
 from typing import Optional
 
 from gen.flights.flight import Flight

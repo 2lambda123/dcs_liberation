@@ -1,4 +1,5 @@
 """Radio frequency types and allocators."""
+
 import itertools
 import logging
 from dataclasses import dataclass

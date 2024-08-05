@@ -20,6 +20,7 @@ beacons = {
 }
 
 """
+
 import argparse
 from contextlib import contextmanager
 import dataclasses
