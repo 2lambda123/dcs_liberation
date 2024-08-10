@@ -1,4 +1,5 @@
 """A layout containing a widget with an associated label."""
+
 from typing import Optional
 
 from PySide2.QtCore import Qt

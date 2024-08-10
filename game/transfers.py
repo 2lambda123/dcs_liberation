@@ -470,9 +470,9 @@ TransportType = TypeVar("TransportType", bound=MultiGroupTransport)
 class TransportMap(Generic[TransportType]):
     def __init__(self) -> None:
         # Dict of origin -> destination -> transport.
-        self.transports: dict[
-            ControlPoint, dict[ControlPoint, TransportType]
-        ] = defaultdict(dict)
+        self.transports: dict[ControlPoint, dict[ControlPoint, TransportType]] = (
+            defaultdict(dict)
+        )
 
     def create_transport(
         self, origin: ControlPoint, destination: ControlPoint

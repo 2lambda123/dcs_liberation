@@ -5,6 +5,7 @@ MissionPlanner. Those only plan basic information like the objective, aircraft
 type, and the size of the flight. The FlightPlanBuilder is responsible for
 generating the waypoints for the mission.
 """
+
 from __future__ import annotations
 
 import logging
@@ -1779,9 +1780,9 @@ class FlightPlanBuilder:
         # properly.
         origin_to_join = origin.distance_to_point(join)
         cos_theta = (
-            self.doctrine.hold_distance.meters ** 2
-            + origin_to_join ** 2
-            - self.doctrine.join_distance.meters ** 2
+            self.doctrine.hold_distance.meters**2
+            + origin_to_join**2
+            - self.doctrine.join_distance.meters**2
         ) / (2 * self.doctrine.hold_distance.meters * origin_to_join)
         try:
             theta = math.acos(cos_theta)

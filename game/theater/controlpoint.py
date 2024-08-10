@@ -332,8 +332,7 @@ class ControlPoint(MissionTarget, ABC):
 
     @property
     @abstractmethod
-    def heading(self) -> int:
-        ...
+    def heading(self) -> int: ...
 
     def __str__(self) -> str:
         return self.name
@@ -435,8 +434,7 @@ class ControlPoint(MissionTarget, ABC):
 
     @property
     @abstractmethod
-    def can_deploy_ground_units(self) -> bool:
-        ...
+    def can_deploy_ground_units(self) -> bool: ...
 
     @property
     @abstractmethod
@@ -612,8 +610,7 @@ class ControlPoint(MissionTarget, ABC):
         self.base.set_strength_to_minimum()
 
     @abstractmethod
-    def can_operate(self, aircraft: AircraftType) -> bool:
-        ...
+    def can_operate(self, aircraft: AircraftType) -> bool: ...
 
     def aircraft_transferring(self, game: Game) -> dict[AircraftType, int]:
         if self.captured:
@@ -638,8 +635,7 @@ class ControlPoint(MissionTarget, ABC):
     @abstractmethod
     def active_runway(
         self, conditions: Conditions, dynamic_runways: Dict[str, RunwayData]
-    ) -> RunwayData:
-        ...
+    ) -> RunwayData: ...
 
     @property
     def parking_slots(self) -> Iterator[ParkingSlot]:
@@ -647,8 +643,7 @@ class ControlPoint(MissionTarget, ABC):
 
     @property
     @abstractmethod
-    def runway_status(self) -> RunwayStatus:
-        ...
+    def runway_status(self) -> RunwayStatus: ...
 
     @property
     def runway_can_be_repaired(self) -> bool:
@@ -756,13 +751,11 @@ class ControlPoint(MissionTarget, ABC):
 
     @property
     @abstractmethod
-    def category(self) -> str:
-        ...
+    def category(self) -> str: ...
 
     @property
     @abstractmethod
-    def status(self) -> ControlPointStatus:
-        ...
+    def status(self) -> ControlPointStatus: ...
 
 
 class Airfield(ControlPoint):

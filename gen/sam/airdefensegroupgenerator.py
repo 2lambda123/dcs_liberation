@@ -84,8 +84,7 @@ class AirDefenseGroupGenerator(VehicleGroupGenerator[SamGroundObject], ABC):
 
     @classmethod
     @abstractmethod
-    def range(cls) -> AirDefenseRange:
-        ...
+    def range(cls) -> AirDefenseRange: ...
 
     @classmethod
     def primary_group_role(cls) -> SkynetRole:

@@ -20,9 +20,9 @@ class GroundUnitType(UnitType[Type[VehicleType]]):
     spawn_weight: int
 
     _by_name: ClassVar[dict[str, GroundUnitType]] = {}
-    _by_unit_type: ClassVar[
-        dict[Type[VehicleType], list[GroundUnitType]]
-    ] = defaultdict(list)
+    _by_unit_type: ClassVar[dict[Type[VehicleType], list[GroundUnitType]]] = (
+        defaultdict(list)
+    )
     _loaded: ClassVar[bool] = False
 
     def __str__(self) -> str:

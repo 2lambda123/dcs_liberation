@@ -1,4 +1,5 @@
 """Combo box for selecting aircraft types."""
+
 from typing import Iterable, Type
 
 from PySide2.QtWidgets import QComboBox
